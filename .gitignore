@@ -102,3 +102,5 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+.DS_Store
+module1-text-data/df_shops.csv
